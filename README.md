@@ -30,6 +30,15 @@ This repo hosts the download link and setup instructions for installing and play
 
 ![Meta Quest Developer Hub - install screen](assets/mqdh-screenshot.png)
 
+**Demo Video**
+- Watch: [Watch the demo video](DEMO_VIDEO_URL)
+- Optional inline player (works if the MP4 is hosted on GitHub Releases or committed via Git LFS):
+
+  <video src="assets/demo.mp4" controls width="800"></video>
+
+  - If using YouTube/Drive, keep the link above and replace `DEMO_VIDEO_URL` with your video link. Optionally add a thumbnail that links to the video: `[![Watch the demo](assets/demo-thumb.png)](DEMO_VIDEO_URL)`
+  - If you attach an MP4 to a GitHub Release, replace the `src` with the release asset URL.
+  - Large videos should use GitHub Releases or YouTube; avoid committing >100MB files unless using Git LFS.
 **Updating or Uninstalling**
 - To update, install a newer APK the same way; MQDH will replace the existing build.
 - To remove, use the three-dot menu in MQDH -> `Uninstall`, or uninstall from the headset.
@@ -50,3 +59,4 @@ This repo hosts the download link and setup instructions for installing and play
 - The APK is distributed outside App Lab; install only if you trust the source.
 
 Enjoy the game! If you run into issues, please open an issue in this repo with your headset model and a brief description.
+
