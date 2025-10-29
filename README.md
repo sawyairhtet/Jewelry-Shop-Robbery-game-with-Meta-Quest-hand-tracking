@@ -1,4 +1,4 @@
-﻿# Jewelry Shop Robbery - Meta Quest (Hand Tracking)
+# Jewelry Shop Robbery - Meta Quest (Hand Tracking)
 
 This repo hosts the download link and setup instructions for installing and playing the Jewelry Shop Robbery VR game on Meta Quest via an APK.
 
@@ -31,12 +31,12 @@ This repo hosts the download link and setup instructions for installing and play
 ![Meta Quest Developer Hub - install screen](assets/mqdh-screenshot.png)
 
 **Demo Video**
-- Watch: [Watch the demo video](DEMO_VIDEO_URL)
-- Optional inline player (works if the MP4 is hosted on GitHub Releases or committed via Git LFS):
+- Watch: [Watch the demo video](https://github.com/sawyairhtet/Jewelry-Shop-Robbery-game-with-Meta-Quest-hand-tracking/raw/main/assets/demo.mp4)
+- Optional inline player (use a raw URL so GitHub serves the file, not the HTML "blob" page):
 
-  <video src="assets/demo.mp4" controls width="800"></video>
+  <video src="https://github.com/sawyairhtet/Jewelry-Shop-Robbery-game-with-Meta-Quest-hand-tracking/raw/main/assets/demo.mp4" controls width="800"></video>
 
-  - If using YouTube/Drive, keep the link above and replace `DEMO_VIDEO_URL` with your video link. Optionally add a thumbnail that links to the video: `[![Watch the demo](assets/demo-thumb.png)](DEMO_VIDEO_URL)`
+  - If using YouTube/Drive, keep the link above and replace the URL with your video link. Optionally add a thumbnail that links to the video: `[![Watch the demo](assets/demo-thumb.png)](https://github.com/sawyairhtet/Jewelry-Shop-Robbery-game-with-Meta-Quest-hand-tracking/raw/main/assets/demo.mp4)`
   - If you attach an MP4 to a GitHub Release, replace the `src` with the release asset URL.
   - Large videos should use GitHub Releases or YouTube; avoid committing >100MB files unless using Git LFS.
 **Updating or Uninstalling**
@@ -59,4 +59,5 @@ This repo hosts the download link and setup instructions for installing and play
 - The APK is distributed outside App Lab; install only if you trust the source.
 
 Enjoy the game! If you run into issues, please open an issue in this repo with your headset model and a brief description.
+
 
